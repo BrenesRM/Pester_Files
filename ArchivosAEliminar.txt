@@ -1,0 +1,13 @@
+Chek_Domian.ps1
+DisabledIPv6.ps1
+Disks.ps1
+Firewall.ps1
+LicenseStatus.ps1
+Local_Services.ps1
+Networks.ps1
+RDPNLA.ps1
+Server_Facts.ps1
+Service_RemoteQualys.ps1
+Service_RemoteSaltStack.PS1
+Service_RemoteSplunk.ps1
+TelnetClient.ps1
